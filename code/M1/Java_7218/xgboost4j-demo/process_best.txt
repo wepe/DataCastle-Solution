@@ -1,0 +1,8 @@
+-->bestClassifer	0	auc=0.04977564
+0.005	8.0	5	1	110
+-->bestClassifer	1	auc=0.4491109
+0.01	8.0	5	1	110
+-->bestClassifer	2	auc=0.5084757
+0.015	8.0	5	1	110
+-->bestClassifer	3	auc=0.51766235
+0.02	8.0	5	1	110
