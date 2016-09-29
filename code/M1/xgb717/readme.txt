@@ -1,2 +1,2 @@
-xgb717.py这份代码可能无法复现结果，因为xgb717这个模型主要是为了获得原始特征的重要性，当时得到特征排序文件raw_feature_score.csv后，修改过该模型的参数，
-但我保留了xgb717的模型文件，有100M左右，需要的话请联系我，masterwepon@163.com
+xgb717.py杩欎唤浠ｇ爜鍙兘鏃犳硶澶嶇幇缁撴灉锛屽洜涓簒gb717杩欎釜妯″瀷涓昏鏄负浜嗚幏寰楀師濮嬬壒寰佺殑閲嶈鎬э紝褰撴椂寰楀埌鐗瑰緛鎺掑簭鏂囦欢raw_feature_score.csv鍚庯紝淇敼杩囪妯″瀷鐨勫弬鏁帮紝
+浣嗘垜淇濈暀浜唜gb717鐨勬ā鍨嬫枃浠讹紝鍙笅杞斤細http://pan.baidu.com/s/1c2snJ9m
